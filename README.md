@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/skyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skyy" height="30" width="40" /></a>
 <a href="https://instagram.com/brosky_en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brosky_en" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/skyyypey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skyyypey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@skyyypey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skyyypey" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/skyyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skyyes" height="30" width="40" /></a>
 </p>
 
