@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=centersky&label=Profile%20views&color=0e75b6&style=flat" alt="centersky" /> </p>
 
-- 🔭 I’m currently working on **Web for my Fivem server ..**
+- 🔭 I’m currently working on **Cyber projectss ..**
 
-- 🌱 I’m currently learning **esx**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **gajakurinec@gmail.com**
 
